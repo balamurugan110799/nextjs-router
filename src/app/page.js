@@ -5,13 +5,7 @@ import Head from 'next/head';
 export default function Home() {
   return (
     <main>
-            <Head>
-        {/* Add meta tags */}
-        <title>My Page Title</title> {/* Specify the title of the page */}
-        <meta name="description" content="Description of my page for SEO" /> {/* Add meta description */}
-        <meta name="keywords" content="keyword1, keyword2, keyword3" /> {/* Add meta keywords */}
-        {/* Add other meta tags as needed */}
-      </Head>
+         
 
       Welcome World
       <Image
